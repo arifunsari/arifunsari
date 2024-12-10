@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Arif Ansari</h1>
-<h3 align="center">A dedicated Data Scientist and Python Developer</h3> 
+<h3 align="center">A dedicated Data Scientist and BI Developer</h3> 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="animated" width="270" height="270"/>
@@ -47,7 +47,7 @@
     Linkedin
   </a>
   <h6>    </h6>
-  <a href="mailto:amankhancse@gmail.com">
+  <a href="mailto:arifcse2024@gmail.com">
    Mail
   </a>
 </p>
