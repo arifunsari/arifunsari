@@ -1,53 +1,112 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVqdnQwbzgzMmhhZXl0ejYwb3lwajNqYTV5YzZmNWRtcWlqaXk5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="data-code" width="80" height="80"/>
-</p>
+# Hi 👋, I'm Arif Ansari  
+🚀 Generative AI Engineer | AI Agent Developer | Focused on LLMs, LangChain, LangGraph, MCP & Agentic AI  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepthisundhara&label=Profile%20views&color=0e75b6&style=flat" alt="deepthisundhara" />
-</p>
+---
 
-<h1 align="center">Hi 👋, I'm Arif Ansari</h1>
-<h3 align="center">A dedicated Data Scientist and BI Developer</h3> 
+## 👨‍💻 About Me  
+Welcome to my web corner! I'm **Arif Ansari**, a passionate **AI Engineer & Generative AI Enthusiast** focused on **LLMs, Agentic AI, and next-gen AI systems**.  
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="animated" width="270" height="270"/>
-</p>
+I specialize in building **AI-powered applications** that go beyond predictions—systems that can **reason, plan, and act**. My journey is driven by curiosity and the belief that data and AI have the power to transform how we understand problems and design solutions.  
 
-<h3 align="left">About Me:</h3>
-<p>
-  A dedicated analytics professional skilled in data science, data engineering, AI/ML, and NLP. I excel at transforming complex datasets into actionable insights and driving strategic decision-making with a focus on efficient data management and user-centric solutions.
-</p>
+As a storyteller in the realm of AI & data, I strive to **bridge the gap between raw information and real-world decision-making**. I enjoy uncovering hidden narratives in data, designing intelligent workflows, and crafting creative solutions that combine **technology + strategy**.  
 
-<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">Currently Focused On:
-</h3>
-<ul>
-  <li><strong>Data Science:</strong> Data-driven problem solver with a passion for extracting insights from complex datasets. 📊</li>
-  <li><strong>AI/ML Innovations:</strong> Diving deep into cutting-edge machine learning techniques and AI applications to build predictive models and drive strategic decisions. 🤖</li>
-  <li><strong>Power Apps & Power Automate:</strong> Creating efficient workflows and automating processes to enhance business operations. ⚙️</li>
-</ul>
+I’m also a strong believer in **business-driven problem solving**. Before jumping into models and code, I focus on truly understanding the **business context**, breaking down the problem, and then exploring multiple approaches to find the most effective solution.  
+
+Whether it's **optimizing workflows, predicting trends, automating tasks, or designing agentic AI tools**, I approach every challenge with **analytical rigor, creativity, and persistence**. For me, it’s not just about solving problems—it’s about creating **impactful solutions that scale**.  
+
+Together, let’s explore the world of **Generative AI, NLP, and AI Agents—one project at a time. 
 
 
+---
 
+## 💼 Professional Highlights  
+- 🎯 **AI/ML Engineer (Fresher)** with hands-on experience in **GenAI, NLP, and Deep Learning projects**.  
+- 📌 Experience building **AI Agents** using LangChain, LangGraph, MCP, FAISS, and RAG.  
+- 🧑‍🎓 **B.Tech (CSE), 2024 Graduate** – Specialized in **AI/ML & Generative AI applications**.  
+- 🛠️ Skilled at deploying AI apps with **Streamlit, FastAPI, and APIs**.  
+- 🌐 Mentored students in **AI/ML, Power BI, and EDA projects** at Naresh IT.  
 
+---
 
+## 🔍 Areas of Interest  
+✅ Generative AI & Large Language Models (LLMs)  
+✅ Agentic AI Systems (LangChain, LangGraph, MCP)  
+✅ Retrieval-Augmented Generation (RAG)  
+✅ AI Agents & Autonomous Workflows  
+✅ FastAPI & Streamlit Deployments  
+✅ End-to-End Machine Learning Pipelines  
+✅ Deep Learning (Vision + NLP)  
 
-<h3 align="left">
-  <img src="https://media.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" alt="Expertise GIF" width="40" height="40" style="vertical-align: middle;"/> 
-  Expertise and Consultation Areas:
-</h3>
-<ul>
-  <li><strong>Data Analysis & Visualization:</strong> Leveraging Python, SQL, Power BI, and Tableau to transform intricate datasets into actionable insights and visually compelling narratives. 📈</li>
-  <li><strong>Business Intelligence Solutions:</strong> Implementing and optimizing BI tools to provide clear, strategic insights and drive business growth. 🚀</li>
-  <li><strong>Project Management & Strategy:</strong> Leading projects from conception through execution, ensuring impactful results and efficient workflows. 🎯</li>
-</ul>
+---
 
-<h3 align="left">📫 How to Connect:</h3>
-<p>
-  <a href="https://www.linkedin.com/in/arif-ansari-/">
-    Linkedin
-  </a>
-  <h6>    </h6>
-  <a href="mailto:arifcse2024@gmail.com">
-   Mail
-  </a>
-</p>
+## 📜 Courses & Certifications  
+- 🎓 **Full Stack Data Science & Generative AI Certification** – Naresh IT  
+- 📘 **Python for Data Science** – NPTEL  
+- 💡 **Deep Learning (CNN, Transformers, NLP)** – Self Projects  
+- ☁️ **Cloud & Deployment** – Azure | AWS | GCP  
+
+---
+
+## 🧰 Tech Stack  
+
+**Core Skills**  
+- Generative AI, LLMs, NLP, RAG, Agentic AI  
+
+**Frameworks & Tools**  
+- LangChain | LangGraph | MCP | LlamaIndex | Hugging Face  
+
+**Programming & Query**  
+- Python, SQL  
+
+**ML & DL**  
+- Scikit-learn, TensorFlow, PyTorch, XGBoost, Keras  
+
+**Libraries**  
+- NumPy, Pandas, Seaborn, Matplotlib, Plotly, OpenCV  
+
+**Web & App Frameworks**  
+- Streamlit, FastAPI, Flask  
+
+**Databases & Vector Stores**  
+- MySQL, SQLite, FAISS  
+
+**Visualization & BI**  
+- Power BI, MS Excel  
+
+**Dev Tools & IDEs**  
+- Jupyter, VS Code, Colab, PyCharm  
+
+---
+
+## 🚀 Featured Projects  
+- 🤖 **LangChain + Gemini PDF QA Bot**  
+  - Built an RAG-powered chatbot to query PDFs using LangChain & Gemini API.  
+
+- 🔎 **YouTube Podcast Analyzer**  
+  - Summarized and queried YouTube transcripts using FAISS + LLMs.  
+
+- 🧠 **Automated Essay Scoring**  
+  - Used BERT/RoBERTa embeddings + RNN/MLP for student essay evaluation.  
+
+- 🏥 **MRI-Based Brain Tumor Detection**  
+  - CNN-based classifier for medical imaging.  
+
+- 💸 **AI-Powered Personal Finance Advisor**  
+  - Generative AI tool for financial advice & portfolio insights.  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifcourses&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifcourses&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Let's Connect  
+- 📧 Email: **arifcourse25@gmail.com**  
+- 💼 LinkedIn: [Arif Ansari](https://www.linkedin.com/in/arif-ansari/)  
+- 🌟 Open to collaborations in **Generative AI, LLMs, and Agentic AI projects**!  
+
+---
+⭐️ From [Arif Ansari](https://github.com/arifcourses)  
