@@ -24,7 +24,7 @@ Whether it’s **agentic AI, intelligent automation, or NLP-driven insights**, I
 
 - 🧑‍💻 **AI/ML Engineer (Fresher)** – Hands-on with **LLMs, GenAI, and AI Agents**  
 - 📌 Built **end-to-end projects** using LangChain, LangGraph, Gemini, Hugging Face & FAISS  
-- 🎯 **Mentor @ Naresh IT** – Guided 200+ students in AI/ML, Power BI, and project building  
+- 🎯 **Mentor @ Naresh IT** – Guided 99+ students in AI/ML, Model Building and project building  
 - 🎓 **B.Tech (CSE), 2024 Graduate**  
 
 ---
@@ -63,9 +63,9 @@ Whether it’s **agentic AI, intelligent automation, or NLP-driven insights**, I
 ## 📜 Courses & Certifications  
 
 - 🎓 **Full Stack Data Science & Generative AI Certification – Naresh IT**  
-- 📘 **Python for Data Science – NPTEL**  
+- 📘 **Python for Data Science – UDEMY**  
 - 📊 **Deep Learning for NLP & Vision – Self Projects**  
-- ☁️ **Cloud & Deployment – Azure | AWS | GCP**  
+- ☁️ **Cloud & Deployment – Azure | AWS**  
 
 ---
 
